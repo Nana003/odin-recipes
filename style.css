@@ -1,0 +1,35 @@
+body{
+    display: block;
+    text-align: center;
+    color: rgb(50, 50, 50);
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+h1 {
+    font-family: 'Lucida console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(9, 164, 203);
+}
+
+h2 {
+    font-family: 'Lucida console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(9, 164, 203);
+}
+
+ul, ol {
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+    align-content: center;
+    padding: 5px;
+    margin: 0px;
+    background-color: rgb(255, 211, 225);
+    border-radius: 10px;
+    border-style: dotted;
+    border-color: red;
+}
